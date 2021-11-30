@@ -1,113 +1,80 @@
-#### DirkSCGM
+# DIRK STEYNBERG - DirkSCGM
 
-Data Engineer & Developer
+## DATA SPECIALIST | Data Engineer, Data Ops, Python Developer
 
-Avid Data Engineer and Technology/IoT enthusiast with +5 years of experience as a Data Consultant and Data Engineer in
-both leading South African FinTech companies and Innovation start-ups. I also have several professional qualifications
-in my field as well as Statistics, Business and Sciences.
-
-**Expertise**
-
++5 years of experience in global companies and startups as well as FinTech and E-commerce companies as a Data
+Specialist, Data Engineer, Data Platform Engineer, and Data Consultant. Passionate about renewable technologies, IoT,
+and tech that serves the betterment of people and our natural environment.
 * * * * *
 
-Data Engineering
+### EDUCATION
 
-Cloud Computing
+:telescope: **ADL (UK level 6 BSc) - Ongoing**\
+*Business & Innovation*\
+Entrepreneurship, Management, Statistics, Operations Management, Mechanics, Environmental Chemistry, Alternative Energy,
+Applied Electronics, Physics 1 & 2 and Industrial Psychology.
 
-Data & Python Development
+:triangular_ruler: **Wesleyan University Coursera (Prof Cert) - 2019**\
+*Data Analysis & Interpretation*
 
-SQL & NoSQL
+:blue_book: **Adelaide University Edx (Prof Cert) - 2019**\
+*Programming for Data Science*
 
-**Education**
+:guitar: **Royal School of Music (Certificate) - 2017**\
+*Music Theory*
 
-* * * * *
+:headphones: **CAE (NQF5 National Senior Certificate) - 2015**\
+*Sound Technology*
 
-**Int. University of Applied Sciences - Ongoing**
-*BSc Computer Science*
+### SKILLS
+Data Engineering, Data Analysis, Business Development, Cloud Computing, ETL, Data Ops, Big Data, Data Warehousing, Data Lakes, Rest Apis, SaaS, Software Engineering, Project Management, Stakeholder Management.
 
-**ADL - Ongoing**
-*UK Level 4 Certificate in Management*
-*UK Level 4 Certificate in Entrepreneurship*
-*UK Level 4 Certificate in Statistics*
-*UK Level 4 Certificate in Physics*
+### TOOLS & TECHNOLOGIES
+:snake: **Programming Languages:**
+* Python
+* Java
+* C#
+* C++
 
-**Wesleyan University/Coursera - 2019**
-Specialization in Data Analysis & Interpretation
+:wrench: **SQL & NoSQL:**
+* PrestoSQL, MySQL, PostgreSQL
+* MongoDB, Athena
 
-**University of Adelaide/Edx - 2019**
-Big Data Micromasters
-**Codebase & Solutions**
+:cloud: **Cloud Vendor Solutions:**
+* AWS, Azure, GCP, Digital Ocean
 
-* * * * *
+:microscope: **Orchestration & Infrastructure Tech:**
+* CloudFormation, Terraform
+* Docker
+* Airflow
+* Jenkins, GitActions
 
-Spark/PySpark
+:bar_chart: **Frameworks & Software:**
+* Spark & PySpark
+* Hadoop, EMR
+* Pandas
+* Plotly, ChartJs
+* Flask
+* Tableau, Metabase
+* PyArrow
+* BeautifulSoup, Selenium
+* SQLAlchemy
 
-Python
+### EXPERIENCE
 
-AWS
+**Data Engineer at Ringier (Oct 2020 - Present)**\
+Lead Data Engineer for the South African branch Search & Data team. 
+Involved in the development, infrastructure and orchestration of cloud based down-streaming and ETL pipelines within a company wide Data Lake. Down-streaming and data enrichment from major 3rd party vendors such as Facebook, Google, Instagram etc.
 
-Java
+**Data Guru at Howler (Oct 2019 - Oct 2020)**\
+Headed the architecture and development of a modern data analytics platform which included centralised data warehousing and data lake solutions, automation and ETL pipelines using SQL, Spark and AWS from multiple data points.
+Developed product, fraud and user behaviour dashboards and reports for key stakeholders in the business using Python, SQL, Tableau and Metabase.
 
-**Skills & Endorsements**
+**Founder & Data Specialist at Perceptech (Closed 2020)**\
+Developed solutions in Data Analysis and Data Engineering for online clients based all over the world. Solutions would include building Open Source Reporting Suites for companies in the financial and renewable energies sector as well as start-ups. Developed web-applications and python applications and scripts for companies seeking Python oriented solutions. Eventually closed down due to the pandemic. 
 
-* * * * *
+**Data Engineer, Consultant & Developer at Ovations (Sep 2017 - Oct 2019)**\
+Consulted with key clients such as Momentum and Multiply to develop and implement modern data warehousing and ETL solutions, as well as refactor existing products and migrate them to newer tech stacks and technologies.
+Worked in-house on POCs using cloud vendors such as AWS and Azure to produce innovative data products for the financial sector.
 
-Data Engineering,Data Analysis,Business Development,Big Data,Cloud Computing,Extract, Transform, Load (ETL),Continuous
-Integration,Data
-Architecture,AgileMethodologies,Entrepreneurship,Python,AWS,PySpark,SQL,Tableau,Terraform,Java,C\#,HTML,CSS,JS,Flask,Apache
-Spark
-
-**Experience**
-
-Oct 2020 - Present **Data Engineer**
-
-Ringier South Africa - Full-time
-
-Oct 2019 - Oct 2020 **Data Guru/Specialist**
-
-Howler - Full-time
-
-Headed the architecture and development of a modern data analytics platform which included centralized data warehousing
-and data lake solutions, automation and ETL pipelines using SQL, Spark and AWS from multiple data points. Developed
-product, fraud and user behaviour dashboards and reports for key stakeholders in the business using Python, SQL, Tableau
-and Metabase.
-
-2015 - 2020 **Founder/Data Specialist**
-
-Perceptech - Part-time
-
-Founded Perceptech Data. Developed solutions in Data Analysis and Data Engineering for online clients based all over the
-world. Solutions would include building Opensource Reporting Suites for companies in the financial and renewable
-energies sector as well as start-ups. Developed web-applications and python applications and script for companies
-seeking Python oriented solutions.
-
-Oct 2019 - Oct 2020 **Data Engineer/Developer**
-
-Ovations Technologies - Full-time
-
-Consulted with key clients such as Momentum and Multiply to develop and implement modern data warehousing and ETL
-solutions, as well as refactor existing products and migrate them to newer tech stacks and technologies. Worked in-house
-on POCs using cloud vendors such as AWS and Azure to produce innovative data products for the financial sector.
-
-**Projects**
-
-Semita-IO
-
-An intelligent attendance & registration web application. Built using Python, Flask with Materialize CSS.
-
-[Repo](https://github.com/DirksCGM/Semita-IO)
-
-Depreciated DBtoS3
-
-A database to AWS S3 loader & replication tool built using Python. Specifically designed for AWS and PostgreSql and
-MySQL.
-
-[Repo](https://github.com/DirksCGM/DBtoS3)
-
-WIP Anapy
-
-ANApy is a universal data manipulation tool for handling all major forms of data on the fly.
-
-[Repo](https://github.com/DirksCGM/anapy)
-
-More to come...
+etc ...
