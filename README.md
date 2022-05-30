@@ -1,12 +1,13 @@
-# DIRK STEYNBERG - DirkSCGM
-
-## DATA SPECIALIST | Data Engineer, Data Ops, Python Developer
-
-+5 years of experience in global companies and startups as well as FinTech and E-commerce companies as a Data
-Specialist, Data Engineer, Data Platform Engineer, and Data Consultant. Passionate about renewable technologies, IoT,
-and tech that serves the betterment of people and our natural environment.
-* * * * *
-
+<h1>
+  <span style="color:#DE00FF">DIRK STEYNBERG<span/> 
+  <span style="color:#000"> - </span>
+  <small style="color:#8000FF">Data Manager, Data Engineer, Data Ops, Python Developer</small>
+</h1>
+<p>
+Avid Data Specialist & Technology/IoT enthusiast with 6 years of experience as a Data Specialist and Data Engineer in both leading South African FinTech companies, innovating start-ups, and international companies. Qualifications in Management, Statistics, and Science with an ongoing BSc Hons in Computer Science.
+</p>
+<hr>
+  
 ### EDUCATION
 
 :telescope: **ADL (UK level 6 BSc) - Ongoing**\
