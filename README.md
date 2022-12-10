@@ -1,13 +1,13 @@
 # DIRK STEYNBERG
 **Data Manager, Data Engineer, Data Ops, Python Developer**
 
-Dirk Steynberg is a Data Engineer with 6 years of experience in leading South African FinTech companies, innovating start-ups, and international companies. He holds qualifications in Management, Statistics, and Science, and is currently pursuing a BSc in Computer Science.
+I am a Data Engineer with 6 years of experience in leading South African FinTech companies, innovating start-ups, and international companies. I hold qualifications in Management, Statistics, and Science, and am currently pursuing a BSc in Computer Science.
 
-Steynberg has a strong skill set in data engineering, data analysis, and business development. He is proficient in a wide range of tools and technologies, including Python, Spark, Terraform, Airflow, AWS, Azure, GCP, and more. In addition, he is skilled in a variety of programming languages, including Python, Java, C#, Go and C++. But mostly Python with PySpark :wink:
+I have a strong skill set in data engineering, data analysis, and business development. I am proficient in a wide range of tools and technologies, including Python, Spark, Terraform, Airflow, AWS, Azure, GCP, and more. In addition, I am skilled in a variety of programming languages, including Python, Java, C#, and C++. But mostly Python with PySpark 😉
 
-In his current role as a Data Engineer, Steynberg is responsible for managing and analyzing large datasets, developing and maintaining ETL processes, and implementing data warehousing solutions. He is highly experienced in using a range of SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Presto SQL. He is also well-versed in using cloud vendor solutions, such as AWS, Azure, and GCP.
+In my current role as a Data Engineer, I am responsible for managing and analyzing large datasets, developing and maintaining ETL processes, and implementing data warehousing solutions. I am highly experienced in using a range of SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Presto SQL. I am also well-versed in using cloud vendor solutions, such as AWS, Azure, and GCP.
 
-In addition to his technical expertise, Steynberg also has experience in stakeholder management and product management. He is a strong communicator and a team player, with a proven track record of success in delivering high-quality data solutions.
+In addition to my technical expertise, I also have experience in stakeholder management and product management. I am a strong communicator and a team player, with a proven track record of success in delivering high-quality data solutions.
 
 ---
 
