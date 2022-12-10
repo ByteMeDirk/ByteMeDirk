@@ -1,7 +1,13 @@
 # DIRK STEYNBERG
 **Data Manager, Data Engineer, Data Ops, Python Developer**
 
-Avid Data Specialist & Technology/IoT enthusiast with 6 years of experience as a Data Specialist and Data Engineer in both leading South African FinTech companies, innovating start-ups, and international companies. Qualifications in Management, Statistics, and Science with an ongoing BSc Hons in Computer Science.
+Dirk Steynberg is a Data Engineer with 6 years of experience in leading South African FinTech companies, innovating start-ups, and international companies. He holds qualifications in Management, Statistics, and Science, and is currently pursuing a BSc in Computer Science.
+
+Steynberg has a strong skill set in data engineering, data analysis, and business development. He is proficient in a wide range of tools and technologies, including Python, Spark, Terraform, Airflow, AWS, Azure, GCP, and more. In addition, he is skilled in a variety of programming languages, including Python, Java, C#, Go and C++. But mostly Python with PySpark :wink:
+
+In his current role as a Data Engineer, Steynberg is responsible for managing and analyzing large datasets, developing and maintaining ETL processes, and implementing data warehousing solutions. He is highly experienced in using a range of SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Presto SQL. He is also well-versed in using cloud vendor solutions, such as AWS, Azure, and GCP.
+
+In addition to his technical expertise, Steynberg also has experience in stakeholder management and product management. He is a strong communicator and a team player, with a proven track record of success in delivering high-quality data solutions.
 
 ---
 
@@ -41,6 +47,7 @@ Big Data, Data Warehousing, Flask (APIs), SQL & NoSQL, Python, Spark, Terraform,
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 :wrench: **SQL & NoSQL:**
 
@@ -80,6 +87,8 @@ Big Data, Data Warehousing, Flask (APIs), SQL & NoSQL, Python, Spark, Terraform,
 * Airflow, Docker, Terraform
 
 ### EXPERIENCE
+**Data Engineer at Teraflow (June 2022 - Current)**\
+Data Engineer and Technical Lead.
 
 **Data Engineer at Ringier (Oct 2020 - May 2022)**\
 Data Engineer for the South African branch Search & Data team. 
