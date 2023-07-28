@@ -1,5 +1,8 @@
 🚀 Data Engineer | 🐍 Python Dev | 📊 Tech Lead | Open Source Enthusiast
 
+<a rel="me" href="https://mastodon.social/@bytemedirk">Mastodon</a> |
+<a href="https://www.linkedin.com/in/bytemedirk/">LinkedIn</a>
+
 ##**Bio**
 
 👨‍💻 Crafting innovative cloud solutions & data platforms @Teraflow.ai | Building data-driven projects for global impact | 🚀 Leveraging Python, Spark, and Airflow for efficient data processing | Passionate about open-source contributions & collaboration | Let's fork & innovate together! 🌟
