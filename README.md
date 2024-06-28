@@ -3,36 +3,51 @@
 <a rel="me" href="https://mastodon.social/@bytemedirk">Mastodon</a> |
 <a href="https://www.linkedin.com/in/bytemedirk/">LinkedIn</a>
 
-##**Bio**
+# Hello, I'm Dirk 👋
 
-👨‍💻 Crafting innovative cloud solutions & data platforms @Teraflow.ai | Building data-driven projects for global impact | 🚀 Leveraging Python, Spark, and Airflow for efficient data processing | Passionate about open-source contributions & collaboration | Let's fork & innovate together! 🌟
+## Senior Data Engineer & Tech Lead
 
-## About Me
+I'm a passionate Data Engineering Leader with a proven track record in building innovative solutions and leading high-performing teams to deliver complex data solutions. With over 6 years of experience in data engineering, cloud computing, and transformative projects, I specialize in driving innovation and data-driven strategies to solve business challenges.
 
-I'm a passionate Data Engineer, Python Developer, and Tech Lead based in Gauteng, South Africa. With over 6 years of experience, I've been driving innovation and delivering data-driven solutions for various industries, including FinTech and international enterprises.
+### 🚀 What I do
 
-## Tech Stack
+- Design and implement scalable data solutions
+- Lead and mentor high-performing engineering teams
+- Develop cloud-based data warehousing and ETL solutions
+- Champion best practices in cloud data architecture and operations
 
-🔧 Data Engineering | 🌩️ ETL | ☁️ Cloud Computing | 🗄️ Data Warehousing | 🐍 Python | ✨ Spark | 🌬️ Airflow | 🏗️ Terraform | 🚀 AWS | 🔵 Azure | 🟢 GCP
+### 🛠️ Technologies & Tools
 
-## My Contributions
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 
-🚀 At Teraflow.ai, I'm leading a squad of cloud engineers to develop cutting-edge cloud solutions. We collaborate with clients, build and maintain data platforms, implement efficient data processing pipelines, and conduct code reviews. I also take pride in mentoring junior team members to grow their expertise.
+### 📈 GitHub Stats
 
-💼 As the founder of Perceptech Data, I provided data analysis and engineering solutions to clients worldwide. I developed open-source reporting suites, designed web applications, and solved diverse business challenges with Python-based solutions.
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteMeDirk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-🌐 At Howler, I led the architecture and development of a modern data analytics platform, using centralized data warehousing and data lake solutions. I implemented automation and ETL pipelines, creating interactive dashboards for product, fraud, and user behavior analysis.
+*Note:* Most of my professional work is not on GitHub, so this is not as active as it could be. 
 
-⚙️ With Ovations Technologies, I developed and implemented cloud data warehousing and ETL solutions, working closely with the financial sector to deliver innovative data products.
+### 💼 Work Experience
 
-## Current Pursuit
+- Senior Data Engineer, Tech Lead at Equal Experts (2024 - Present)
+- Data Engineer, Tech Lead at Teraflow.ai (2022 - 2023)
+- Data Engineer, Data Lead at Ringier South Africa (2020 - 2022)
+- Founder, Data Specialist at Perceptech (2015 - 2020)
+- Data Guru, Data Specialist at Howler (2019 - 2020)
+- Data Engineer, Software Developer at Ovations Technologies (Pty) Ltd (2017 - 2019)
 
-I'm currently pursuing a BSc in Computer Science with Honours, aiming to enhance my skills and stay on top of the ever-evolving tech landscape.
+### 🎓 Education
 
-## Let's Connect!
-
-I'm passionate about open-source contributions and collaborating on exciting projects. Feel free to explore my repositories, fork them, and let's build something amazing together! 🌟
+- BSc Honours in Computing & IT, University of Derby (2024 - 2025)
+- BS Undergrad in Computing & IT, Online Business School (2022 - 2023)
+- TQUK Level 4, Business & Innovation, ADL Online (2020 - 2022)
 
 ---
 
-Let's harness the power of data and technology to drive positive change! 🌍✨
+⭐️ From [ByteMeDirk](https://github.com/ByteMeDirk)
