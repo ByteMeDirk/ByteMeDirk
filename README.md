@@ -29,7 +29,7 @@ I'm a passionate Data Engineering Leader with a proven track record in building 
 
 ### 📈 GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteMeDirk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMeDirk&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 *Note:* Most of my professional work is not on GitHub, so this is not as active as it could be. 
 
