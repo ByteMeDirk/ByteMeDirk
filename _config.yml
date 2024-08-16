@@ -1,0 +1,27 @@
+title: "ByteMeDirk's Portfolio"
+description: "Senior Data Engineer & Tech Lead"
+url: "https://bytemedirk.github.io"
+baseurl: "/ByteMeDirk"
+
+# Build settings
+markdown: kramdown
+theme: minima  # or your chosen theme
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Blog settings
+show_excerpts: true
+permalink: /posts/:year/:month/:day/:title/
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
