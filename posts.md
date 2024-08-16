@@ -4,8 +4,6 @@ title: Posts
 permalink: /posts/
 ---
 
-<h1 style="font-size: 2.5rem; margin-bottom: 1.5rem; text-align: center;">My Blog Posts</h1>
-
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
 
   <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 1rem; background-color: #f6f8fa;">
