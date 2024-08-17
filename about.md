@@ -8,7 +8,12 @@ permalink: /about/
   <img src="{{ '/assets/images/bio-photo.jpg' | relative_url }}" alt="Dirk's profile picture" style="width: 200px; height: 200px; border-radius: 50%; margin-right: 2rem;">
   <div>
     <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem;">About Me</h1>
-    <p style="font-size: 1.2rem; color: #555;">I'm a passionate Data Engineering Leader with over 6 years of experience in data engineering, cloud computing, and transformative projects. I specialize in driving innovation and data-driven strategies to solve complex business challenges.</p>
+    <p style="font-size: 1.2rem; color: #555;">
+    Experienced Data Specialist with a proven track record in building innovative solutions and leading high-performing teams to deliver complex data solutions. Specializing in data engineering, data ops, and business development. Passionate about driving innovation and data-driven strategies to solve business challenges. <br>
+    With over 7 years of experience in data engineering, cloud computing, and transformative projects, I excel in designing and implementing scalable data solutions that drive business growth. Throughout my career, I've built cloud/on-prem and enterprise data platforms, redefined data lakes for enterprise clients, and transformed data utilization for successful startups.<br> 
+    My diverse background in Management, Statistics, and Science, combined with my ongoing pursuit of a BSc in Computer Science with Honors, has equipped me with a unique perspective and skillset. Recognized for technical excellence and strategic vision, I'm enthusiastic about mentoring and empowering teams to excel. <br>
+    I thrive in fast-paced environments where data-driven insights are critical to success. Let's connect and explore how we can drive business growth together!
+    .</p>
   </div>
 </div>
 
