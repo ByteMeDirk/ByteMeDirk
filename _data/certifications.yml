@@ -1,0 +1,74 @@
+# University Education
+- name: "Computer Science (BSc)"
+  issuer: "University of Example"
+  date: "2010-2014"
+  type: "university"
+  description: "Specialized in Data Science and Artificial Intelligence"
+  url: ""
+
+# LinkedIn Learning Certifications
+- name: "Advanced Python Programming"
+  issuer: "LinkedIn Learning"
+  date: "January 2023"
+  type: "linkedin"
+  url: "https://www.linkedin.com/learning/certificates/example"
+
+- name: "Data Engineering with PySpark"
+  issuer: "LinkedIn Learning"
+  date: "March 2023"
+  type: "linkedin"
+  url: "https://www.linkedin.com/learning/certificates/example"
+
+- name: "AWS for Data Engineers"
+  issuer: "LinkedIn Learning"
+  date: "May 2023"
+  type: "linkedin"
+  url: "https://www.linkedin.com/learning/certificates/example"
+
+# Coursera Certifications
+- name: "Machine Learning Specialization"
+  issuer: "Stanford University (Coursera)"
+  date: "February 2022"
+  type: "coursera"
+  url: "https://www.coursera.org/account/accomplishments/example"
+
+- name: "Data Engineering with Google Cloud"
+  issuer: "Google (Coursera)"
+  date: "October 2022"
+  type: "coursera"
+  url: "https://www.coursera.org/account/accomplishments/example"
+
+# Industry Certifications
+- name: "AWS Certified Data Analytics - Specialty"
+  issuer: "Amazon Web Services"
+  date: "June 2023"
+  type: "industry"
+  description: "Validated expertise in AWS data services"
+  url: "https://www.credly.com/badges/example"
+
+- name: "Microsoft Certified: Azure Data Engineer Associate"
+  issuer: "Microsoft"
+  date: "August 2022"
+  type: "industry"
+  description: "Certified in designing and implementing the management, monitoring, security, and privacy of data solutions using Azure services"
+  url: "https://learn.microsoft.com/en-us/users/example/credentials"
+
+- name: "Google Cloud Professional Data Engineer"
+  issuer: "Google Cloud"
+  date: "December 2022"
+  type: "industry"
+  description: "Certified in designing, building, operationalizing, securing, and monitoring data processing systems"
+  url: "https://www.credential.net/example"
+
+# Other Courses
+- name: "Apache Kafka Fundamentals"
+  issuer: "Confluent"
+  date: "April 2023"
+  type: "other"
+  url: "https://developer.confluent.io/example"
+
+- name: "Databricks Certified Data Engineer Associate"
+  issuer: "Databricks"
+  date: "May 2023"
+  type: "other"
+  url: "https://credentials.databricks.com/example"

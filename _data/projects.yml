@@ -1,0 +1,35 @@
+# Project list - replace with your actual projects
+- name: "Data Pipeline Automation Framework"
+  description: "A scalable framework for automating ETL processes using Apache Airflow, enabling monitoring, alerting, and self-healing capabilities."
+  technologies: ["Python", "Apache Airflow", "Docker", "AWS"]
+  image: "/assets/images/projects/data-pipeline.jpg"
+  url: "https://github.com/ByteMeDirk/data-pipeline"
+  featured: true
+
+- name: "Real-time Analytics Dashboard"
+  description: "A real-time analytics dashboard built with React and D3.js, connected to streaming data sources via Kafka and processed with Spark Streaming."
+  technologies: ["React", "D3.js", "Kafka", "Spark Streaming"]
+  image: "/assets/images/projects/analytics-dashboard.jpg"
+  url: "https://github.com/ByteMeDirk/analytics-dashboard"
+  featured: true
+
+- name: "ML Model Serving API"
+  description: "A high-performance API for serving machine learning models, with features for A/B testing, model versioning, and performance monitoring."
+  technologies: ["Python", "FastAPI", "Docker", "Kubernetes"]
+  image: "/assets/images/projects/ml-api.jpg"
+  url: "https://github.com/ByteMeDirk/ml-serving"
+  featured: true
+
+- name: "Data Quality Framework"
+  description: "A comprehensive framework for validating data quality, detecting anomalies, and generating quality metrics across data pipelines."
+  technologies: ["Python", "Great Expectations", "dbt", "Snowflake"]
+  image: "/assets/images/projects/data-quality.jpg"
+  url: "https://github.com/ByteMeDirk/data-quality"
+  featured: false
+
+- name: "Cloud Cost Optimization Tool"
+  description: "A tool for analyzing and optimizing cloud infrastructure costs across AWS, GCP, and Azure, with recommendations for rightsizing and scheduling."
+  technologies: ["Python", "Terraform", "AWS", "GCP", "Azure"]
+  image: "/assets/images/projects/cloud-cost.jpg"
+  url: "https://github.com/ByteMeDirk/cloud-cost-optimizer"
+  featured: false

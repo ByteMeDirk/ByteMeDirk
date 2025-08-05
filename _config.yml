@@ -2,19 +2,33 @@ title: "ByteMeDirk's Portfolio"
 description: "Senior Data Engineer & Tech Lead"
 url: "https://bytemedirk.github.io"
 baseurl: "/ByteMeDirk"
+author: "Dirk Steynberg"
 
 # Build settings
 markdown: kramdown
-theme: minima  # or your chosen theme
+theme: minima  # Base theme for GitHub Pages compatibility
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Blog settings
 show_excerpts: true
 permalink: /posts/:year/:month/:day/:title/
+
+# Social links
+social_links:
+  github: ByteMeDirk
+  linkedin: bytemedirk
+  mastodon:
+    - username: bytemedirk
+      instance: mastodon.social
+
+# Google Analytics
+google_analytics: # your Google Analytics tracking ID
 
 # Exclude files from processing
 exclude:
