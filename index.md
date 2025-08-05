@@ -6,11 +6,21 @@ subtitle: Data Engineering | Technical Leadership | Specialist Consulting
 
 # Welcome
 
-I'm a seasoned data professional with expertise in data engineering, cloud platforms, and technical leadership. I bring a wealth of knowledge across various domains including AWS, data lakes, containerization, Python, and more.
+I am a seasoned data professional with 9+ years of experience designing, building, and optimizing scalable data
+solutions for enterprises and high-growth startups. I bring deep expertise in data engineering, cloud architecture,
+technical leadership, and advanced analytics. With specialization across AWS, GCP, Snowflake, Python, and
+containerization, I consistently deliver solutions that drive measurable growth and unlock data-driven opportunities.
 
-## Expertise
+## What I Offer
 
-I specialize in building scalable data solutions, implementing best practices, and mentoring teams to deliver high-quality data products. My approach ensures long-lasting and scalable impact across organizations.
+- Design and implementation of scalable enterprise data platforms (cloud/on-premises)
+- Data lakehouse/warehouse architectures and robust MLOps pipelines
+- Technical leadership, mentoring, and process improvement
+- Advanced analytics, AI, and production-grade ML integration
+
+> “Dirk brings a wealth of knowledge across many different areas—from AWS itself, to data lakes, containerisation,
+> Python and more. He is the ultimate teammate...”  
+> — Gabriel Eisenberg, Senior Data Engineer
 
 [View My Full Profile]({{ '/about/' | relative_url }})
 [View My Projects]({{ '/projects/' | relative_url }})

@@ -6,7 +6,9 @@ permalink: /contact/
 
 # Get in Touch
 
-I'm available for data engineering, technical leadership, and specialist consulting roles. Feel free to reach out if you have questions or would like to discuss potential opportunities.
+I am available for data engineering, technical leadership, and specialist consulting opportunities. If you would like to
+collaborate, discuss a project, or learn more about how I can help elevate your data capabilities, please don’t hesitate
+to reach out.
 
 ## Contact Information
 
@@ -16,14 +18,15 @@ I'm available for data engineering, technical leadership, and specialist consult
 
 ## Let's Connect
 
-Whether you're looking for a consultant, technical leader, or a data engineer to join your team, I'd be happy to discuss how my skills and experience can benefit your organization.
+Whether you need an experienced data leader, a technical specialist to solve complex problems, or guidance in building
+robust, scalable data platforms, I’m happy to explore how my experience and skills can benefit your organization.
 
-I'm particularly interested in challenging projects involving:
+I am especially interested in impactful roles or projects involving:
 
-- Data lake and warehouse architecture
-- Cloud-based data solutions (AWS, GCP, Snowflake)
-- Data engineering and ETL pipeline development
-- MLOps implementation
-- Team leadership and mentoring
+- Enterprise data lake, warehouse, and cloud architecture
+- End-to-end cloud data solutions (AWS, GCP, Snowflake)
+- Advanced data engineering and ETL pipeline development
+- MLOps and ML integration for production environments
+- Team leadership, mentoring, and technical process improvement
 
-Please don't hesitate to reach out via any of the contact methods above.
+Looking forward to connecting and discovering how we can create lasting business value together!
