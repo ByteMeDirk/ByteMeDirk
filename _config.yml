@@ -1,41 +1,27 @@
-title: "ByteMeDirk's Portfolio"
-description: "Senior Data Engineer & Tech Lead"
+title: Dirk Steynberg
+description: Data Engineering, Technical Leadership, and Specialist Consulting
+baseurl: ""
 url: "https://bytemedirk.github.io"
-baseurl: "/ByteMeDirk"
-author: "Dirk Steynberg"
 
 # Build settings
 markdown: kramdown
-theme: minima  # Base theme for GitHub Pages compatibility
-remote_theme: jekyll/minima
-
+theme: minima
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-seo-tag
 
-# Blog settings
-show_excerpts: true
-permalink: /posts/:year/:month/:day/:title/
-
-# Social links
-social_links:
-  github: ByteMeDirk
+# Author information
+author:
+  name: Dirk Steynberg
+  email: bytemedirk@proton.me
+  bio: "Data Engineering, Technical Leadership, and Specialist Consulting"
+  location: South Africa
   linkedin: bytemedirk
-  mastodon:
-    - username: bytemedirk
-      instance: mastodon.social
 
-# Google Analytics
-google_analytics: # your Google Analytics tracking ID
-
-# Exclude files from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+# Site settings
+permalink: /:title/
+show_excerpts: true
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md

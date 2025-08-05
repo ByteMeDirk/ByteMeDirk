@@ -2,139 +2,40 @@
 layout: default
 ---
 
-<div class="row align-items-center mb-5">
-  <div class="col-md-4 text-center">
-    <div class="profile-image-container mb-4 mb-md-0">
-      <img src="{{ '/assets/images/bio-photo.jpg' | relative_url }}" alt="Dirk Steynberg" class="rounded-circle img-fluid profile-image">
-      <div class="glow-effect"></div>
-    </div>
-  </div>
-  <div class="col-md-8">
-    <div class="hero-text">
-      <h1 class="display-4 fw-bold text-gradient mb-3">Hello, I'm <span class="highlight">Dirk</span> <span class="wave-emoji">👋</span></h1>
-      <h2 class="h3 mb-4 text-light-muted">Senior Data Engineer & Tech Lead</h2>
-      <p class="lead mb-4">🚀 Data Engineer | 🐍 Python Dev | 📊 Tech Lead | Open Source Enthusiast</p>
-      <div class="d-flex flex-wrap gap-2 justify-content-md-start justify-content-center mb-4">
-        <a href="https://mastodon.social/@bytemedirk" rel="me" class="btn btn-outline-primary">
-          <i class="fab fa-mastodon me-2"></i>Mastodon
-        </a>
-        <a href="https://www.linkedin.com/in/bytemedirk/" class="btn btn-outline-primary">
-          <i class="fab fa-linkedin me-2"></i>LinkedIn
-        </a>
-        <a href="https://github.com/ByteMeDirk" class="btn btn-outline-primary">
-          <i class="fab fa-github me-2"></i>GitHub
-        </a>
+<div class="home">
+  <section class="hero">
+    <div class="hero-content">
+      <h1 class="page-heading">{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <h2 class="page-subtitle">{{ page.subtitle }}</h2>
+      {% endif %}
+      <div class="profile-image-container">
+        <img src="{{ '/assets/images/bio-photo.jpg' | relative_url }}" alt="{{ site.author.name }}" class="profile-image">
       </div>
     </div>
-  </div>
-</div>
+  </section>
 
-<div class="card bg-dark-glass mb-5 border-glow">
-  <div class="card-body">
-    <h2 class="card-title section-title mb-4">
-      <i class="fas fa-tools me-2 text-primary"></i>Technologies & Tools
-    </h2>
-    <div class="row g-4">
-      <div class="col-md-4">
-        <div class="tech-category mb-3">
-          <h3 class="h5 text-primary">Languages</h3>
-          <div class="tech-skills">
-            <span class="badge bg-tech me-2 mb-2">Python</span>
-            <span class="badge bg-tech me-2 mb-2">Scala</span>
-            <span class="badge bg-tech me-2 mb-2">SQL</span>
-            <span class="badge bg-tech me-2 mb-2">Java</span>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="tech-category mb-3">
-          <h3 class="h5 text-primary">Frameworks & Tools</h3>
-          <div class="tech-skills">
-            <span class="badge bg-tech me-2 mb-2">Docker</span>
-            <span class="badge bg-tech me-2 mb-2">Kubernetes</span>
-            <span class="badge bg-tech me-2 mb-2">Apache Spark</span>
-            <span class="badge bg-tech me-2 mb-2">Kafka</span>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="tech-category mb-3">
-          <h3 class="h5 text-primary">Cloud Platforms</h3>
-          <div class="tech-skills">
-            <span class="badge bg-tech me-2 mb-2">AWS</span>
-            <span class="badge bg-tech me-2 mb-2">GCP</span>
-            <span class="badge bg-tech me-2 mb-2">Azure</span>
-            <span class="badge bg-tech me-2 mb-2">Databricks</span>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="row mb-5">
-  <div class="col-md-6 mb-4 mb-md-0">
-    <div class="card bg-dark-glass h-100 border-glow">
-      <div class="card-body">
-        <h2 class="card-title section-title mb-4">
-          <i class="fas fa-code-branch me-2 text-primary"></i>Recent Projects
-        </h2>
-        <div class="list-group list-group-flush bg-transparent">
-          {% for project in site.data.projects limit:3 %}
-          <a href="{{ project.url }}" class="list-group-item list-group-item-action bg-transparent text-light border-light-subtle">
-            <div class="d-flex justify-content-between align-items-center">
-              <h3 class="h6 mb-1">{{ project.name }}</h3>
-              <small class="text-primary"><i class="fas fa-external-link-alt"></i></small>
-            </div>
-            <p class="mb-1 small text-light-muted">{{ project.description }}</p>
-            <small>
-              {% for tech in project.technologies %}
-              <span class="badge bg-tech-secondary me-1">{{ tech }}</span>
-              {% endfor %}
-            </small>
-          </a>
-          {% endfor %}
-        </div>
-        <div class="text-center mt-4">
-          <a href="{{ '/projects/' | relative_url }}" class="btn btn-outline-primary btn-sm">View all projects</a>
-        </div>
-      </div>
-    </div>
+  <div class="home-content">
+    {{ content }}
   </div>
 
-  <div class="col-md-6">
-    <div class="card bg-dark-glass h-100 border-glow">
-      <div class="card-body">
-        <h2 class="card-title section-title mb-4">
-          <i class="fas fa-certificate me-2 text-primary"></i>Certifications Highlight
-        </h2>
-        <div class="list-group list-group-flush bg-transparent">
-          {% for cert in site.data.certifications limit:3 %}
-          <div class="list-group-item bg-transparent text-light border-light-subtle">
-            <div class="d-flex justify-content-between align-items-center">
-              <h3 class="h6 mb-1">{{ cert.name }}</h3>
-              <small class="text-primary">{{ cert.date }}</small>
-            </div>
-            <p class="mb-1 small text-light-muted">{{ cert.issuer }}</p>
-          </div>
-          {% endfor %}
-        </div>
-        <div class="text-center mt-4">
-          <a href="{{ '/certifications/' | relative_url }}" class="btn btn-outline-primary btn-sm">View all certifications</a>
-        </div>
+  <section class="cta-section">
+    <div class="cta-container">
+      <div class="cta-card">
+        <h3>Expertise</h3>
+        <p>Cloud Data Platforms, Data Engineering, MLOps</p>
+        <a href="{{ '/about/' | relative_url }}" class="cta-button">Learn More</a>
+      </div>
+      <div class="cta-card">
+        <h3>Projects</h3>
+        <p>Data Lakes, ETL Pipelines, Team Leadership</p>
+        <a href="{{ '/projects/' | relative_url }}" class="cta-button">See Projects</a>
+      </div>
+      <div class="cta-card">
+        <h3>Contact</h3>
+        <p>Available for consulting and leadership roles</p>
+        <a href="{{ '/contact/' | relative_url }}" class="cta-button">Get in Touch</a>
       </div>
     </div>
-  </div>
-</div>
-
-<div class="card bg-dark-glass mb-5 border-glow">
-  <div class="card-body">
-    <h2 class="card-title section-title mb-4">
-      <i class="fas fa-chart-line me-2 text-primary"></i>GitHub Activity
-    </h2>
-    <div class="text-center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMeDirk&layout=donut-vertical&theme=dark&bg_color=00000000" alt="Top Languages" class="img-fluid github-stats">
-      <p class="text-light-muted mt-3"><em>Note: Most of my professional work is not on GitHub, so this may not fully represent my coding activity.</em></p>
-    </div>
-  </div>
+  </section>
 </div>

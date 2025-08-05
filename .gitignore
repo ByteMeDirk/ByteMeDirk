@@ -1,0 +1,34 @@
+# Jekyll build files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby environment
+.bundle/
+vendor/
+
+# MacOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# PDF reference files not needed in the published site
+Profile.pdf
+
+# Environment files
+.env
+.env.*
