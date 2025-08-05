@@ -12,6 +12,6 @@ I'm a seasoned data professional with expertise in data engineering, cloud platf
 
 I specialize in building scalable data solutions, implementing best practices, and mentoring teams to deliver high-quality data products. My approach ensures long-lasting and scalable impact across organizations.
 
-[View My Full Profile](/about)
-[View My Projects](/projects)
-[Contact Me](/contact)
+[View My Full Profile]({{ '/about/' | relative_url }})
+[View My Projects]({{ '/projects/' | relative_url }})
+[Contact Me]({{ '/contact/' | relative_url }})

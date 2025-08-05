@@ -1,11 +1,11 @@
 title: Dirk Steynberg
 description: Data Engineering, Technical Leadership, and Specialist Consulting
-baseurl: ""
+baseurl: "/ByteMeDirk"
 url: "https://bytemedirk.github.io"
 
 # Build settings
 markdown: kramdown
-theme: minima
+# Removing theme to avoid conflicts with custom layouts
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
